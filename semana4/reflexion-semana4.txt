@@ -1,0 +1,1 @@
+Respuesta: Es importante porque permite que las comunidades creen soluciones adaptadas a sus propias necesidades, sin depender totalmente de grandes empresas. Tecnologías abiertas como Node.js facilitan desarrollar aplicaciones, compartir información, organizar reportes y mejorar la comunicación entre los ciudadanos de forma accesible, colaborativa y económica.
